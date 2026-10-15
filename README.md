@@ -9,7 +9,7 @@ Rafli Ryan Saputra
 ![Gambar 2](Gambar2_Lab3.png)
 ![Gambar 3](Gambar3_Lab3.png)
 ![Gambar 4](Gambar4_Lab3.png)
-![Gambar 5](gambar5_Lab3.png)
+![Gambar 5](Gambar5_Lab3.png)
 # LAPORAN PRAKTIKUM CSS
 
 ## 1. Eksperimen Properti dan Nilai CSS
